@@ -1,0 +1,9 @@
+cmd:
+  command: clang++
+  files: []
+  main: main.cpp
+  options: []
+  target: a.out
+config:
+  check_delay: 1
+  error_display: 5
